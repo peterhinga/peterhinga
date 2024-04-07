@@ -1,7 +1,4 @@
-Hello I'm Peter Hinga I'm into Osint, Web app analysis and Social Engineering.
-I also love coding and learning new languages as of now I'm familiar with python,
-sql, go, c, javascript, html and css.I aspire to build complex(...emmm advanced)
-penetration testing software.Other technologies that I am into include Linux and
-Networking
-Apart from my tech life i love movies, music and obviously
-avoiding people well gotter embrace the introvertic nature.
+![image](https://github.com/peterhinga/peterhinga/assets/114114142/61e46a56-97dd-47f5-9829-cf3eed6b130a) Hey there its Hinga
+I work with the following technologies:Linux,
+                                       Pentesting,
+                                       Programming - C, Python, Go, SQL, Kotlin, Javascript, html & CSS
