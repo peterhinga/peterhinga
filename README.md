@@ -1,1 +1,2 @@
+# **Hi there, its Hinga **
 I am a passionate tech enthusiast with a deep focus in Programming, linux administration and Penetration testing.In programming I mainly specialize in bash, python, C and Go for writing automation scripts  and building my own pentesting tools.I am very eager to continously increase my knowledge in the ever evolving tech landscape and grow in it.If you are to lets connect and grow together.
