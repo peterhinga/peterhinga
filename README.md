@@ -2,7 +2,7 @@
 <p>
   A student who loves building stuff, skill stacking and collarborating on projects that make me a better 
   Programmer.I am also fascinated by Linux ...ammh I use arch BTW trying to build stuff for it and on it.
-  Finaly a Cyber Security enthusiast who is having trouble on what to specialize on.
+  Finaly a CyberSecurity enthusiast who is having trouble on what to specialize on.
 
   I am a generalist, looking forward to connecting with great minds.
 </p>
